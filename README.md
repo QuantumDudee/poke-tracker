@@ -115,3 +115,7 @@ You should see timestamped logs for each check and sleep interval.
 - Add per-store cooldown after repeated 403/429 responses.
 - Add optional debug mode to save response snippets for failed checks.
 - Validate and replace placeholder URLs/IDs in `config.json` before long-running use.
+
+## Feedback
+
+Comments and suggestions are welcome. If you have ideas, improvements, or find issues, feel free to open an issue or share feedback.
