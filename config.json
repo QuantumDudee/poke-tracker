@@ -1,0 +1,88 @@
+{
+  "ntfy_topic": "poke-harshit-test123",
+  "check_interval_minutes": 3,
+  "peak_check_interval_minutes": 1,
+  "products": [
+    {
+      "name": "Black Bolt Booster Bundle",
+      "stores": {
+        "target": "94681770",
+        "walmart": "16484003729",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "Black Bolt Elite Trainer Box",
+      "stores": {
+        "target": "94636862",
+        "walmart": "16498668973",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "Black Bolt Binder Collection",
+      "stores": {
+        "target": "94636856",
+        "walmart": "16454374284",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "White Flare Booster Bundle",
+      "stores": {
+        "target": "94681785",
+        "walmart": "16516160047",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "White Flare Elite Trainer Box",
+      "stores": {
+        "target": "94636860",
+        "walmart": "16446322202",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "White Flare Binder Collection",
+      "stores": {
+        "target": "94636851",
+        "walmart": "16516160046",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "Unova Poster Collection (Black Bolt & White Flare)",
+      "stores": {
+        "target": "94636854",
+        "walmart": "16517213276",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "Unova Mini Tin - Volcarona & Emolga",
+      "stores": {
+        "target": "1004842347",
+        "walmart": "[INSERT_WALMART_ID_HERE]",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    },
+    {
+      "name": "Unova Mini Tin - Mienshao & Klinklang",
+      "stores": {
+        "target": "1004842367",
+        "walmart": "[INSERT_WALMART_ID_HERE]",
+        "barnesnoble": "[INSERT_BN_URL_HERE]",
+        "cvs": "[INSERT_CVS_URL_HERE]"
+      }
+    }
+  ]
+}
